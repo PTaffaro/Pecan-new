@@ -24,7 +24,10 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 This image is a practice image so that I can see if this is working right.
 <param ve-image
-       manifest="https://commons.wikimedia.org/wiki/File:Pygargue_%C3%A0_queue_blanche_(Haliaeetus_albicilla)_-_t%C3%AAte.jpg">
+       label="practice"
+       description="image to see"
+       license="public domain"
+       url="https://commons.wikimedia.org/wiki/File:Pygargue_%C3%A0_queue_blanche_(Haliaeetus_albicilla)_-_t%C3%AAte.jpg">
        
 # Basic usage
 
