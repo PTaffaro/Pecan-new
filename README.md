@@ -27,7 +27,7 @@ This image is a practice image so that I can see if this is working right.
        label="practice"
        description="image to see"
        license="public domain"
-       url="https://commons.wikimedia.org/wiki/File:Pygargue_%C3%A0_queue_blanche_(Haliaeetus_albicilla)_-_t%C3%AAte.jpg">
+       url="https://commons.wikimedia.org/wiki/File:Red_eyed_tree_frog_edit2.jpg">
        
 # Basic usage
 
