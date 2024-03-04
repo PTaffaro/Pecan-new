@@ -23,7 +23,8 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 # Practice Image
 
 This image is a practice image so that I can see if this is working right.
-<param ve-image="https://commons.wikimedia.org/wiki/File:Pygargue_%C3%A0_queue_blanche_(Haliaeetus_albicilla)_-_t%C3%AAte.jpg">
+<param ve-image
+       manifest="https://commons.wikimedia.org/wiki/File:Pygargue_%C3%A0_queue_blanche_(Haliaeetus_albicilla)_-_t%C3%AAte.jpg">
 
 # Basic usage
 
