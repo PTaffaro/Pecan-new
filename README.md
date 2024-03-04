@@ -20,6 +20,10 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 <param ve-image
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
+# Practice Image
+
+<param ve-image="https://commons.wikimedia.org/wiki/File:Pygargue_%C3%A0_queue_blanche_(Haliaeetus_albicilla)_-_t%C3%AAte.jpg">
+
 # Basic usage
 
 ## Image
