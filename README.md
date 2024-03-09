@@ -31,12 +31,13 @@ This image is a practice image so that I can see if this is working right.
 
 ## Paolo's Pecan Image
 
-This is an early 19th century illustration of a the Pecan Nut, with its given Liennaen scientific name of Juglans Olivaeformis. Because of its resemblance to other hickories, it also bears the name Picanenut Hickory.
+This is an early 19th century illustration of a the Pecan Nut, with its given Liennaen scientific name of Juglans Olivaeformis. Because of its resemblance to other hickories, it also bears the more <span data-mouseover-image-zoomto="824,800,1152,938">commonly known name</span>.
 <param ve-image
        label="Pecanenut Hickory"
        description="image to see"
        license="public domain"
-       url="https://www.biodiversitylibrary.org/pageImage/52292046">
+       url="https://www.biodiversitylibrary.org/pageImage/52292046"
+       fit="contain">
 
 # Basic usage
 
