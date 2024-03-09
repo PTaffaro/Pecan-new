@@ -31,7 +31,8 @@ This image is a practice image so that I can see if this is working right.
 
 ## Paolo's Pecan Image
 
-
+This is an early 19th century illustration of a the Pecan Nut, with its given Liennaen scientific name of Juglans Olivaeformis. Because of its resemblance to other hickories, it also bears the name Picanenut Hickory.
+<param ve-image="https://www.biodiversitylibrary.org/page/52292046">
 
 # Basic usage
 
