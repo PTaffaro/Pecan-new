@@ -33,7 +33,7 @@ This image is a practice image so that I can see if this is working right.
 
 This is an early 19th century illustration of a the Pecan Nut, with its given Liennaen scientific name of Juglans Olivaeformis. Because of its resemblance to other hickories, it also bears the more <span data-mouseover-image-zoomto="391,2115,1874,1809">commonly known name</span>.
 <param ve-image
-       label="Pecanenut Hickory"
+       label="Illustration from Michaux's North American Trees"
        description="image to see"
        license="public domain"
        url="https://www.biodiversitylibrary.org/pageImage/52292046"
