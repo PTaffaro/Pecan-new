@@ -37,7 +37,7 @@ This is an early 19th century illustration of a the Pecan Nut, with its given Li
        description="image to see"
        license="public domain"
        url="https://www.biodiversitylibrary.org/pageImage/52292046"
-       fit="contain">
+       region="701,229,3885,3750">
 
 # Basic usage
 
